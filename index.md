@@ -17,10 +17,8 @@ Pleased to meet you!  <br> I am a Ph.D. candidate in the group of <a href='https
 ## News
 
 
-- **[Jan. 2024]** We are orginazing the 27th Workshop on Future research in Combinatirial Optimization (FRICO2024) in Magdeburg, September 9th-13th! Chech it out at <a href='https://frico2024.ovgu.de/privacy.html'>https://frico2024.ovgu.de/privacy.html</a>.
+- **[Jan. 2024]** We are organizing the 27th Workshop on Future research in Combinatirial Optimization (FRICO2024) in Magdeburg, September 9th-13th!<br> Chech it out at <a href='https://frico2024.ovgu.de/privacy.html'>https://frico2024.ovgu.de/privacy.html</a>
 - **[Jan. 2024]** Our paper "On the Number of Degenerate Siplex Pivots" is accepted to IPCO2024.
-<!-- - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.-->
 
 {% include_relative _includes/publications.md %}
 
