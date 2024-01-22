@@ -17,7 +17,7 @@ Pleased to meet you!  <br> I am a Ph.D. candidate in the group of <a href='https
 ## News
 
 
-- **[Jan. 2024]** We are organizing the 27th Workshop on Future Research in Combinatirial Optimization (FRICO2024) in Magdeburg, September 9th-13th!<br> Chech it out at <a href='https://frico2024.ovgu.de'>https://frico2024.ovgu.de</a>
+- **[Jan. 2024]** We are organizing the 27th Workshop on Future Research in Combinatirial Optimization (FRICO2024) in Magdeburg, September 9th-13th 2024! <br> Chech it out at <a href='https://frico2024.ovgu.de'>https://frico2024.ovgu.de</a>
 - **[Jan. 2024]** Our paper "On the Number of Degenerate Siplex Pivots" is accepted to IPCO2024.
 
 {% include_relative _includes/publications.md %}
