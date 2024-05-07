@@ -22,11 +22,11 @@
 </tr>
 <tr class="teach">
 <td class="teach" id="sem">[WS20/21]</td>
-<td class="teach"><a href="https://www.math.uni-magdeburg.de/~werner/math_methodsI.html"><autocolor>Mathematical Methods I</autocolor></a></td>
+<td class="teach"><a href="https://wasd.urz.uni-magdeburg.de/werner/math_methodsI.html"><autocolor>Mathematical Methods I</autocolor></a></td>
 </tr>
 <tr class="teach">
 <td class="teach" id="sem">[WS19/20]</td>
-<td class="teach"><a href="https://www.math.uni-magdeburg.de/~werner/math-ec-new.html"><autocolor>Mathematical Economics</autocolor></a></td>
+<td class="teach"><a href="https://wasd.urz.uni-magdeburg.de/werner/math-ec-new.html"><autocolor>Mathematical Economics</autocolor></a></td>
 </tr>
 </tbody>
 </table>
