@@ -3,7 +3,7 @@ main:
   - title: On the Number of Degenerate Simplex Pivots
     authors: Kirill Kukharenko, Laura Sanità
     conference_short: IPCO
-    conference: <b>Published in:</b> In: Vygen, J., Byrka, J. (eds) Integer Programming and Combinatorial Optimization. IPCO 2024. Lecture Notes in Computer Science, vol 14679. Springer, Cham.
+    conference: <b>Published in:</b> Vygen, J., Byrka, J. (eds) Integer Programming and Combinatorial Optimization. IPCO 2024. Lecture Notes in Computer Science, vol 14679. Springer, Cham.
     pdf: https://arxiv.org/abs/2311.15799
     image: ./assets/img/antistalling.png
     notes: arXiv preprint
