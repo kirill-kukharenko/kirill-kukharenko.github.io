@@ -1,6 +1,6 @@
 ## Service
 
-<b> Main organizer</b> of the 27th Workshop on Future Research in Combinatirial Optimization (FRICO2024) in Magdeburg, September 9-13, 2024! <br> Chech it out at <a href='https://frico2024.ovgu.de'>https://frico2024.ovgu.de</a>
+<b>Main organizer</b> of the 27th Workshop on Future Research in Combinatirial Optimization (FRICO 2024) in Magdeburg, September 9-13, 2024. Chech it out at <a href='https://frico2024.ovgu.de'>https://frico2024.ovgu.de</a>
 
 ## Tutoring
 
